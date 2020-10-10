@@ -1,0 +1,25 @@
+body {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    width: 100%;
+}
+
+nav {
+    display: flex;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+#nav-list {
+    display: flex;
+}
+
+.nav-items {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
